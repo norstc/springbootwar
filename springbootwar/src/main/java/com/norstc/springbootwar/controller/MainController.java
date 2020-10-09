@@ -16,4 +16,9 @@ public class MainController {
 	public String helloJsp() {
 		return "index";
 	}
+	
+	@RequestMapping("/demojsp")
+	public String demoJsp() {
+		return "demo";
+	}
 }
