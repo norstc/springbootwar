@@ -10,7 +10,7 @@
 
 generate a project from https://start.spring.io/
 
-![image-20201009143656286](images/image-20201009143656286.png)
+![image-20201009143656286](https://user-images.githubusercontent.com/5081981/95645202-73ba9000-0aef-11eb-9f8c-fa0b650ad74f.png)
 
 注意这里选择的war
 
