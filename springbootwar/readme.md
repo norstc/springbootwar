@@ -36,6 +36,34 @@ https://github.com/norstc/springbootwar
 
 
 
+## 本地验证
+
+本地启动tomcat 8.5.57 (windows 64)
+
+
+
+```batch
+copy E:\tech\spring\SpringBoot\springbootwar\springbootwar\target\springbootwar-0.0.1-SNAPSHOT.war D:\apache-tomcat-8.5.57\webapps\ /Y
+```
+
+
+
+本地访问
+
+<http://localhost:8080/springbootwar-0.0.1-SNAPSHOT/demojsp>
+
+
+
+
+
+也可以直接 java -jar 运行编译出来的 war
+
+```shell
+java -jar E:\tech\spring\SpringBoot\springbootwar\springbootwar\target\springbootwar-0.0.1-SNAPSHOT.war
+```
+
+此时的访问地址不需要再加上应用名了
+<http://localhost:8080/hellojsp>
 
 
 ## 使用jenkins部署
