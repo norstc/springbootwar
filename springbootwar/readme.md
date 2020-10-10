@@ -10,7 +10,7 @@
 
 generate a project from https://start.spring.io/
 
-![image-20201009143656286](images\image-20201009143656286.png)
+![image-20201009143656286](images/image-20201009143656286.png)
 
 注意这里选择的war
 
@@ -18,7 +18,7 @@ generate a project from https://start.spring.io/
 
 extract the zip file: springbootwar.zip
 
-![image-20201009143826690](images\image-20201009143826690.png)
+![image-20201009143826690](images/image-20201009143826690.png)
 
 
 
@@ -26,9 +26,9 @@ import this project to eclipse
 
 
 
-![image-20201009144024004](images\image-20201009144024004.png)
+![image-20201009144024004](images/image-20201009144024004.png)
 
-![image-20201009144100307](images\image-20201009144100307.png)
+![image-20201009144100307](images/image-20201009144100307.png)
 
 
 
